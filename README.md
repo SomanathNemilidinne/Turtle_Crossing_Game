@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-We welcome contributions! If you have suggestions or improvements, feel free to open an issue or submit a pull request. Happy coding! 🌟
+I welcome contributions! If you have suggestions or improvements, feel free to open an issue or submit a pull request. Happy coding! 🌟
 
 --- 
 
